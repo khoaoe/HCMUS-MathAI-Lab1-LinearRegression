@@ -3,7 +3,7 @@
 
 ## Giới thiệu
 
-Đây là project thực hiện Lab 1 môn "Phương pháp Toán cho Trí tuệ Nhân tạo" tại Trường Đại học Khoa học Tự nhiên - ĐHQG HCM[cite: 1, 3]. Mục tiêu là xây dựng và đánh giá các mô hình Hồi quy Tuyến tính (Linear Regression) để dự đoán giá xe ô tô cũ dựa trên tập dữ liệu `train.csv`
+Đây là project thực hiện Lab 1 môn "Phương pháp Toán cho Trí tuệ Nhân tạo" tại Trường Đại học Khoa học Tự nhiên - ĐHQG HCM. Mục tiêu là xây dựng và đánh giá các mô hình Hồi quy Tuyến tính (Linear Regression) để dự đoán giá xe ô tô cũ dựa trên tập dữ liệu `train.csv`
 
 ## Quy trình thực hiện
 
